@@ -1,0 +1,8 @@
+{ 
+	"Server" : "localhost",
+	"Database" : "yodev", 
+	"User" : "root", 
+	"Password" : "root", 
+   	"Pooling" : "false",
+	"SslMode" : "none"
+}
